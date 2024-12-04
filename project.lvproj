@@ -15,10 +15,13 @@
 		<Item Name="main_interface.vi" Type="VI" URL="../main_interface.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Draw Line.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Line.vi"/>
 				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
 				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
+				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 			</Item>
+			<Item Name="draw_blockline.vi" Type="VI" URL="../draw_blockline.vi"/>
 			<Item Name="drawPicbyArr.vi" Type="VI" URL="../drawPicbyArr.vi"/>
 			<Item Name="insert_block.vi" Type="VI" URL="../insert_block.vi"/>
 		</Item>

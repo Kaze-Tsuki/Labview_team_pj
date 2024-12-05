@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="draw_block.vi" Type="VI" URL="../draw_block.vi"/>
+		<Item Name="gen_rng block.vi" Type="VI" URL="../gen_rng block.vi"/>
 		<Item Name="main_interface.vi" Type="VI" URL="../main_interface.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

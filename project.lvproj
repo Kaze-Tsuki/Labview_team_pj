@@ -15,13 +15,17 @@
 		<Item Name="check end.vi" Type="VI" URL="../check end.vi"/>
 		<Item Name="clear_line.vi" Type="VI" URL="../clear_line.vi"/>
 		<Item Name="computer.vi" Type="VI" URL="../computer.vi"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="draw_blockline.vi" Type="VI" URL="../draw_blockline.vi"/>
 		<Item Name="drawPicbyArr.vi" Type="VI" URL="../drawPicbyArr.vi"/>
 		<Item Name="duel_ver.vi" Type="VI" URL="../duel_ver.vi"/>
 		<Item Name="gen_rng block.vi" Type="VI" URL="../gen_rng block.vi"/>
 		<Item Name="insert_block.vi" Type="VI" URL="../insert_block.vi"/>
 		<Item Name="main_interface.vi" Type="VI" URL="../main_interface.vi"/>
+		<Item Name="next_blocks.ctl" Type="VI" URL="../next_blocks.ctl"/>
 		<Item Name="rank plate.vi" Type="VI" URL="../rank plate.vi"/>
+		<Item Name="stop_button.ctl" Type="VI" URL="../stop_button.ctl"/>
+		<Item Name="turn_block.ctl" Type="VI" URL="../turn_block.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Line.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Line.vi"/>

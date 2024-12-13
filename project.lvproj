@@ -21,7 +21,7 @@
 		<Item Name="gen_rng block.vi" Type="VI" URL="../gen_rng block.vi"/>
 		<Item Name="insert_block.vi" Type="VI" URL="../insert_block.vi"/>
 		<Item Name="main_interface.vi" Type="VI" URL="../main_interface.vi"/>
-		<Item Name="rank plate.vi" Type="VI" URL="../../pj3_demo/rank plate.vi"/>
+		<Item Name="rank plate.vi" Type="VI" URL="../rank plate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Line.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Line.vi"/>

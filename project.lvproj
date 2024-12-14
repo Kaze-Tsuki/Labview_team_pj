@@ -24,6 +24,7 @@
 		<Item Name="main_interface.vi" Type="VI" URL="../main_interface.vi"/>
 		<Item Name="next_blocks.ctl" Type="VI" URL="../next_blocks.ctl"/>
 		<Item Name="rank plate.vi" Type="VI" URL="../rank plate.vi"/>
+		<Item Name="start.vi" Type="VI" URL="../start.vi"/>
 		<Item Name="stop_button.ctl" Type="VI" URL="../ctl/stop_button.ctl"/>
 		<Item Name="turn_block.ctl" Type="VI" URL="../ctl/turn_block.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
